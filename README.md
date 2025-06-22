@@ -74,9 +74,6 @@ This project provides a comprehensive analysis of a streaming platform’s user 
 
 ---
 
-## 🖼️ Sample Screenshots (Add your own)
-
-You can embed screenshots like:
 
 
 
